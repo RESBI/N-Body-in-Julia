@@ -1,5 +1,5 @@
 # N-Body simulatio
-n
+
 ## in Julia.
 ### Ver 1.4.0
 ## Package requires:
