@@ -1,4 +1,4 @@
-# N-Body simulatio
+# N-Body simulation
 
 ## in Julia.
 ### Ver 1.4.0
